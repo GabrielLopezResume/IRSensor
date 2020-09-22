@@ -1,2 +1,2 @@
 # IRSensor
-Source code for the use of a IR Sensor
+As how the Ultra Sonic senor used sound waves to detect objects, the ir sensor used a similar concept through a different medium. Infared radiation is undetectable to the human eye but not undetectable to electronical equipment. The ir sensor needs to be calibrated for the desired distance of detection using the potenitmeter. From there, the ir sensor can be programmed based on whether there is a object inside and outside the detection range. 
